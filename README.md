@@ -23,10 +23,10 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[Daily Ukraine News Digest](https://github.com/Damaldra/daily-ukraine-news-digest)** | Every morning aggregates Ukrainian news RSS, an LLM writes a concise digest, posts it to Telegram and archives it to GitHub. | n8n · GPT · RSS · Telegram · GitHub |
+| **[AI Omnichannel Support Agent](https://github.com/Damaldra/ai-omnichannel-support-agent)** | Customer-support automation across email / Telegram / web-chat: GPT triage → Qdrant RAG answers → confidence gate → human handoff on Telegram, with Google Sheets logging. | n8n · GPT · Qdrant (RAG) · Telegram · Google Sheets |
+| **[Obsidian RAG Telegram Bot](https://github.com/Damaldra/obsidian-rag-telegram-bot)** | Chat with your Obsidian vault from Telegram — indexes a GitHub-hosted Markdown vault into Qdrant (OpenAI embeddings) and answers with a grounded, source-citing GPT bot. | n8n · GPT · Qdrant · embeddings · Telegram |
+| **[n8n Invoice Processing](https://github.com/Damaldra/n8n-invoice-processing)** | Gmail PDF invoices → LLM field extraction → validation → Data Table + Slack, with manual-review routing for low-confidence cases. | n8n · GPT · document AI · Slack · Data Table |
 | **[AI Job Hunter](https://github.com/Damaldra/n8n-job-hunter)** | Every 2h pulls jobs from RSS, de-duplicates them, GPT scores relevance and drafts a tailored reply, sends matches to Telegram. | n8n · GPT · structured output · Data Table |
-| **[AI Interview Questions](https://github.com/Damaldra/ai-interview-questions)** | Daily generates an AI/automation-engineer interview question + model answer; commits a growing public question bank. | n8n · GPT · GitHub |
-| **CRM ↔ API (Error Handling)** | CRM-to-API contact sync with production-grade error handling — validation, retries, 4xx/5xx routing, dead-letter queue, idempotency. *Private — available on request.* | n8n · REST · retries · dead-letter |
 
 ---
 
