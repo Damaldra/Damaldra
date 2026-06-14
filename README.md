@@ -5,7 +5,7 @@
   into reliable systems with <b>n8n</b>, <b>LLMs</b> and a bit of code.
 </p>
 
-<p align="center">🇺🇦 Based in Ukraine · open to remote work</p>
+<p align="center">📍 Based in Nitra, Slovakia · open to remote work</p>
 
 ---
 
