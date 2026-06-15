@@ -49,5 +49,5 @@
 
 ## 📫 Let's connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-handle](https://www.linkedin.com/in/your-handle) <!-- TODO: заменить на реальную ссылку -->
+- 💼 **LinkedIn:** [Yehor Vus](https://www.linkedin.com/in/yehor-vus-6542291a6)
 - 📧 **Email:** [yehorik555@gmail.com](mailto:yehorik555@gmail.com)
