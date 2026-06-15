@@ -47,15 +47,6 @@
 
 ---
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Damaldra&show_icons=true&hide_border=true&theme=tokyonight" alt="Yehor's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damaldra&layout=compact&hide_border=true&theme=tokyonight&hide=json,markdown" alt="Top languages" />
-</p>
-
----
-
 ## 📫 Let's connect
 
 - 💼 **LinkedIn:** [Yehor Vus](https://www.linkedin.com/in/yehor-vus-6542291a6)
