@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm an AI Automation Engineer</h1>
+<h1 align="center">Hi there 👋 I'm Yehor — AI Automation Engineer</h1>
 
 <p align="center">
   I build AI-powered automations and integrations — turning manual, repetitive workflows
